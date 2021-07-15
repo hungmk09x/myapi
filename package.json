@@ -1,0 +1,15 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "deploy": "gh-pages -d API"
+  },
+  "author": "",
+  "license": "ISC",
+  "api":"http://apimusic.github.io/myapi",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
